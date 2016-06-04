@@ -29,14 +29,14 @@ Measurement - what was measured - MEAN AND STANDARD DEVIATION: 3-axial linear ac
 
 ###STEP ONE (MERGE):  Training + Test Sets =  Data set.
 After setting the source directory for the files, read into tables the data located in the following
-. features.txt
-. activity_labels.txt
-. subject_train.txt
-. x_train.txt
-. y_train.txt
-. subject_test.txt
-. x_test.txt
-. y_test.txt
+- features.txt
+- activity_labels.txt
+- subject_train.txt
+- x_train.txt
+- y_train.txt
+- subject_test.txt
+- x_test.txt
+- y_test.txt
 
 ## Files from the Dataset
 - 'features_info.txt': Shows information about the variables used on the feature vector.
