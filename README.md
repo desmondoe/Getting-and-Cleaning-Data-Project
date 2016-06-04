@@ -2,9 +2,9 @@
 Coursera Project
 ## Overview
 This project demonstrate the collection and cleaning of a tidy data set that can be used for subsequent analysis.
-A full description of the data used in this project can be found at The UCI Machine Learning Repository
+A full description of the data used in this project can be found at The UCI Machine Learning Repository.
 The purpose of this project is to demonstrate ones ability to collect, work with, and clean a data set. 
-The goal is to prepare tidy data that can be used for later analysis. Grading will be by peers on a series of yes/no question) 
+The goal is to prepare tidy data that can be used for later analysis. (Grading will be by peers on a series of yes/no question) 
 Required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
 
 ### STEPS - Project Summary
