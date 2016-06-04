@@ -20,7 +20,7 @@ Required to submit:
 - Converts the activity and subject columns into factors
 - Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
-The end result is shown in the file tidy.txt.
+The end result is shown in the file tiddy.txt.
 
 ### NOTE: on R script (run_analysis.R) 
 ### Does the following. 
